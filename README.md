@@ -39,10 +39,20 @@ Hey My Name is Karen Tsaturyan, I'm a 2nd year student at Polytech University. I
         <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="25%" align="center">
+        <span>NodeJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
+      </td>
+      <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr>
+        <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
