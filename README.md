@@ -6,60 +6,21 @@
 
 ## About Me
 
-Hey My Name is Karen Tsaturyan, I'm a 2nd year student at Polytech University. I am a Tech Enthusiast. Looking forward to learn new skills and add them in the list.
+I am a software engineer obsessed with perfection and understanding every layer of the stack. An NPUA graduate currently diving deep into Go, though I maintain a language-agnostic mindset—always ready to leverage the best tool and language for the job. I am diving deep into every aspect of software—from high-performance frontend to scalable backend architecture.
 
 <hr/>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>Redux</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>NodeJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
-    <tr>
-        <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<hr>
+### Building scalable web applications with a focus on the full delivery lifecycle: Develop → Deliver → Discuss → Design.
+
+🛠️ Stack: React (Next.js), TypeScript, Node.js, and Go.
+
+♿ Specialty: High-visibility projects with a focus on A11Y and performance.
+
+🐳 Infrastructure: Docker enthusiast & CI/CD pipeline builder.
+
+🎓 Automation & Computing student @ NPUA.
+
 
 <h1 align="center">
 ✨ Where you can find me ✨
@@ -88,6 +49,3 @@ Hey My Name is Karen Tsaturyan, I'm a 2nd year student at Polytech University. I
 
 <h3>Thanks for Stopping by!! 😊</h3>
 
-
----
-⭐️ From [Karen Tsaturyan](https://github.com/KarenTsaturyan) 
